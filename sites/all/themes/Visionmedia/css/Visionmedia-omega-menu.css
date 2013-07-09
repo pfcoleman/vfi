@@ -1,0 +1,23 @@
+.main-menu li {float:left;border-right:solid 1px black;padding-right:0px !important;padding-left:0px !important;}
+.menu li {float:left;border-right:solid 1px black;padding-right:0px !important;padding-left:0px !important;}
+.menu {background:#eeeeee;margin-left:-1px;height:20px;filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f7f7', endColorstr='#cccccc');background: -moz-linear-gradient(center top, #f7f7f7, #eeeeee 25%, #cccccc 66%, #eeeeee);background: -webkit-gradient(linear, center top, center bottom, from(#f7f7f7), color-stop(25%, #eeeeee), color-stop(66%, #cccccc), to(#eeeeee));background: linear-gradient(#f7f7f7, #eeeeee);padding:5px;margin-top:5px;margin-bottom:5px;}
+
+.navigation {}
+.main-menu a {padding-bottom:0;padding-top:0;padding-left:.5em;padding-right:.5em;display:block;line-height:200%;height:200%;text-decoration:none;font-size:100%;color:#333333;background-color:transparent;}
+.menu a {padding-top:0;padding-left:.5em;padding-right:.5em;display:block;line-height:200%;height:200%;text-decoration:none;font-size:100%;color:#333333;background-color:transparent;}
+.menu a:visited {}
+.menu a:hover {padding-left:.5em;padding-right:.5em;display:block;color: white;background-color: #802991;background-image: none;background-repeat: repeat;background-attachment: scroll;background-position: 0% 0%;background-clip: border-box;background-origin: padding-box;background-size: auto auto;}
+.menu a:active {}
+
+.main-menu a:visited {}
+.main-menu a:hover {padding-left:.5em;padding-right:.5em;display:block;color: white;background-color: #802991;background-image: none;background-repeat: repeat;background-attachment: scroll;background-position: 0% 0%;background-clip: border-box;background-origin: padding-box;background-size: auto auto;}
+.main-menu a:active {}
+.main-menu .last {}
+.menu .last {}
+
+ul.menu li.leaf {list-style-type:none !important;list-style-image:none !important}
+
+.menu-230 li {
+  list-style: none;background-color:gray;color:white;  
+}
+.navigation {display:block;}
