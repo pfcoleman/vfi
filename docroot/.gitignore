@@ -1,5 +1,21 @@
+<<<<<<< HEAD
 # Ignore configuration files that may contain sensitive information.
 
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+=======
+# http://www.gnu.org/software/automake
+
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/aclocal.m4
+/compile
+/configure
+/depcomp
+/install-sh
+/missing
+>>>>>>> 69a1370a6d56a1d81635d1686aa9ed765a76aff1

@@ -1,0 +1,4 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+.flowplayer-processed{width:400px;height:250px;}
+.FPSplash{width:400px;z-index:-1;position:static; margin-top:-45px}
+.FPArrow{z-index:9;border: none; opacity: 0.8; position: relative; top: 105px; left: 180px;}
