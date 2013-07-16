@@ -3,10 +3,9 @@
 sites/*/settings*.php
 
 # Ignore paths that contain user-generated content.
-sites/*/files
-sites/*/private
-=======
-# http://www.gnu.org/software/automake
+docroot/files
+docroot/sites/*/files
+docroot/sites/*/private
 
 Makefile.in
 
